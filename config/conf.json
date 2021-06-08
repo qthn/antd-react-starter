@@ -1,0 +1,14 @@
+{
+	"title": "管理后台模板 React Admin Starter",
+	"name": "管理后台",
+	"pathPrefix": "/admin",
+	"apiPrefix": "/api",
+	"debug": true,
+	"mock": {
+		"global.login": "success",
+		"global.loginInfo": "success",
+		"login.login": "success",
+		"global.logout": "success"
+	},
+	"publicHost": ""
+}
